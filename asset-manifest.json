@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Rodo/static/css/main.0935c309.css",
-    "main.js": "/React-Rodo/static/js/main.6b7384a8.js",
-    "static/js/787.ef22139f.chunk.js": "/React-Rodo/static/js/787.ef22139f.chunk.js",
-    "static/media/Alexandria-Bold.ttf": "/React-Rodo/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
-    "static/media/Alexandria-Medium.ttf": "/React-Rodo/static/media/Alexandria-Medium.e529e0fe5e18e7ad22c4.ttf",
-    "static/media/Alexandria-Light.ttf": "/React-Rodo/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
-    "static/media/Alexandria-Regular.ttf": "/React-Rodo/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
-    "index.html": "/React-Rodo/index.html",
-    "main.0935c309.css.map": "/React-Rodo/static/css/main.0935c309.css.map",
-    "main.6b7384a8.js.map": "/React-Rodo/static/js/main.6b7384a8.js.map",
-    "787.ef22139f.chunk.js.map": "/React-Rodo/static/js/787.ef22139f.chunk.js.map"
+    "main.css": "/React-Todo/static/css/main.208ea231.css",
+    "main.js": "/React-Todo/static/js/main.23864fce.js",
+    "static/js/787.ef22139f.chunk.js": "/React-Todo/static/js/787.ef22139f.chunk.js",
+    "static/media/Alexandria-Bold.ttf": "/React-Todo/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
+    "static/media/Alexandria-Medium.ttf": "/React-Todo/static/media/Alexandria-Medium.e529e0fe5e18e7ad22c4.ttf",
+    "static/media/Alexandria-Light.ttf": "/React-Todo/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
+    "static/media/Alexandria-Regular.ttf": "/React-Todo/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
+    "index.html": "/React-Todo/index.html",
+    "main.208ea231.css.map": "/React-Todo/static/css/main.208ea231.css.map",
+    "main.23864fce.js.map": "/React-Todo/static/js/main.23864fce.js.map",
+    "787.ef22139f.chunk.js.map": "/React-Todo/static/js/787.ef22139f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0935c309.css",
-    "static/js/main.6b7384a8.js"
+    "static/css/main.208ea231.css",
+    "static/js/main.23864fce.js"
   ]
 }
