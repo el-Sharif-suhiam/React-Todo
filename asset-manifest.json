@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.67a0b68f.css",
+    "main.js": "/react-todo/static/js/main.50e680d7.js",
+    "static/js/787.ef22139f.chunk.js": "/react-todo/static/js/787.ef22139f.chunk.js",
+    "static/media/Alexandria-Bold.ttf": "/react-todo/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
+    "static/media/Alexandria-Medium.ttf": "/react-todo/static/media/Alexandria-Medium.e529e0fe5e18e7ad22c4.ttf",
+    "static/media/Alexandria-Light.ttf": "/react-todo/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
+    "static/media/Alexandria-Regular.ttf": "/react-todo/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
+    "index.html": "/react-todo/index.html",
+    "main.67a0b68f.css.map": "/react-todo/static/css/main.67a0b68f.css.map",
+    "main.50e680d7.js.map": "/react-todo/static/js/main.50e680d7.js.map",
+    "787.ef22139f.chunk.js.map": "/react-todo/static/js/787.ef22139f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67a0b68f.css",
+    "static/js/main.50e680d7.js"
+  ]
+}
